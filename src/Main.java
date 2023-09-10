@@ -12,5 +12,7 @@ public class Main {
         String formattedDate = currentDate.format(formatter);
 
         System.out.println("Поточна дата: " + formattedDate);
+
+        //Комментарий новый
     }
 }
